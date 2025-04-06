@@ -105,7 +105,7 @@ round-avatar: true
 url-pretty: "sadsheepie.github.io"
 
 # Add the website title to the title of every page
-title-on-all-pages: true
+title-on-all-pages: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -140,10 +140,10 @@ page-col: "#fef5fa"
 text-col: "#190210"
 link-col: "#f48073"
 hover-col: "#ee20a1"
-navbar-col: "#f4807"
+navbar-col: "#fef5fa"
 navbar-text-col: "#190210"
-navbar-border-col: "#f28350"
-footer-col: "#17020e"
+navbar-border-col: "#f48073"
+footer-col: "#fef5fa"
 footer-text-col: "#190210"
 footer-link-col: "#f48073"
 footer-hover-col: "#ee20a1"
