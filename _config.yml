@@ -20,11 +20,12 @@ author: Salvador Inga
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Acerca de mí: "aboutme"
+  Recursos:
+    - Anatomy and Physiology 2e.: "https://openstax.org/details/books/anatomy-and-physiology-2e"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
