@@ -8,4 +8,4 @@ Mi nombre es Salvador.
 
 ### Por qué existe este sitio
 
-Este sitio es para un proyecto de computación. **Toda** la información extraida desde [Anatomy and Pysiology 2e.](https://openstax.org/details/books/anatomy-and-physiology-2e) y traducida por [DeepL](https://www.deepl.com/es/translator) .
+Este sitio es para un proyecto de computación. **Toda** la información extraída desde [Anatomy and Pysiology 2e.](https://openstax.org/details/books/anatomy-and-physiology-2e) y traducida por [DeepL](https://www.deepl.com/es/translator) .
