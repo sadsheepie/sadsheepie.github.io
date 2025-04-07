@@ -4,7 +4,7 @@ title: Acerca de mí
 subtitle: 1-2-3
 ---
 
-Mi nombre es Salvador.
+Mi nombre es Salvador, hola!.
 
 ### Por qué existe este sitio
 
