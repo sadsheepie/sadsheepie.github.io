@@ -9,7 +9,7 @@ Los minerales más comunes en el organismo son el calcio y el fósforo, ambos al
 
 Al igual que las vitaminas, los minerales pueden consumirse en cantidades tóxicas (aunque es poco frecuente). Una dieta sana incluye la mayoría de los minerales que el cuerpo necesita, por lo que los suplementos y los alimentos procesados pueden añadir niveles potencialmente tóxicos de minerales.
 
-**Principales minerales**
+**Principales minerales**{: .mx-auto.d-block :}
 
 | Mineral | Fuentes | Cantidad diaria recomendada | Función | Problemas asociados a la carencia |
 | :------ | :------ | :------ | :------ | :------ |
@@ -20,7 +20,7 @@ Al igual que las vitaminas, los minerales pueden consumirse en cantidades tóxic
 | Magnesio | Cereales integrales, frutos secos, verduras de hoja verde | 310-420 mg | Activación enzimática, producción de energía, regulación de otros nutrientes | Agitación, ansiedad, problemas de sueño, náuseas y vómitos, ritmos cardíacos anormales, tensión arterial baja, problemas musculares |
 | Cloruro | La mayoría de los alimentos, sal, verduras, especialmente algas, tomates, lechuga, apio, aceitunas | 2300 mg | Equilibrio de los fluidos corporales, digestión | Pérdida de apetito, calambres musculares |
 
-**Minerales traza**
+**Minerales traza**{: .mx-auto.d-block :}
 
 | Mineral | Fuentes | Cantidad diaria recomendada | Función | Problemas asociados a la carencia |
 | :------ | :------ | :------ | :------ | :------ |
