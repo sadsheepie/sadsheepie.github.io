@@ -9,8 +9,10 @@ La mayoría de las vitaminas se obtienen a través de la dieta, aunque algunas p
 
 Las vitaminas hidrosolubles, incluidas las ocho vitaminas del grupo B y la vitamina C, se absorben con agua en el tracto gastrointestinal. Estas vitaminas se desplazan fácilmente a través de los fluidos corporales, que son acuosos, por lo que no se almacenan en el organismo. El exceso de vitaminas hidrosolubles se elimina por la orina. Por lo tanto, la hipervitaminosis de vitaminas hidrosolubles rara vez se produce, excepto con un exceso de suplementos vitamínicos.
 
-**Vitaminas liposolubles**
-
-| Vitamina y nombre alternativo | Fuentes | Cantidad diaria recomendad | Función | Problmas asociados a su carencia |
+**Vitaminas liposolubles**  
+| Vitamina y nombre alternativo | Fuentes | Cantidad diaria recomendad | Función | Problemas asociados a su carencia |
 | :------ | :------ | :------ | :------ | :------ |
-| A retinal o β-caroteno | Frutas y verduras amarillas y naranjas, verduras de hoja verde oscura, huevos, leche, hígado | 700-900 µg | Desarrollo ocular y óseo, función inmunitaria | Ceguera nocturna, cambios epiteliales, deficiencia del sistema inmunitario |
+| A, retinal o β-caroteno | Frutas y verduras amarillas y naranjas, verduras de hoja verde oscura, huevos, leche, hígado | 700-900 µg | Desarrollo ocular y óseo, función inmunitaria | Ceguera nocturna, cambios epiteliales, deficiencia del sistema inmunitario |
+| D, colecalciferol | Productos lácteos, yemas de huevo; también se sintetiza en la piel por exposición a la luz solar | 5-15 µg | Ayuda a la absorción del calcio, favoreciendo el crecimiento óseo | Raquitismo, dolor óseo, debilidad muscular, mayor riesgo de muerte por enfermedad cardiovascular, deterioro cognitivo, asma en niños, cáncer |
+| E, tocoferoles | Semillas, frutos secos, aceites vegetales, aguacates, germen de trigo | 15 mg | Antioxidante | Anemia |
+| K, filoquinona | Verduras de hoja verde oscuro, brócoli, coles de Bruselas, repollo | 90-120 µg | Coagulación sanguínea, salud ósea | Enfermedad hemorrágica del recién nacido en lactantes; infrecuente en adultos |
