@@ -21,6 +21,7 @@ Las vitaminas hidrosolubles, incluidas las ocho vitaminas del grupo B y la vitam
 **Vitaminas hidrosolubles**
 
 | Vitamina y nombre alternativo | Fuentes | Cantidad diaria recomendada | Función | Problemas asociados a la carencia |
+| :------ | :------ | :------ | :------ | :------ |
 | B1, tiamina | Granos integrales, pan y cereales enriquecidos, leche, carne | 1.1-1.2 mg | Metabolismo de los carbohidratos | Beriberi, síndrome de Wernicke-Korsakoff |
 | B2, riboflavina | Levadura de cerveza, almendras, leche, vísceras, legumbres, pan y cereales enriquecidos, brócoli, espárragos | 1.1-1.3 mg | Síntesis de FAD para el metabolismo, producción de glóbulos rojos | Fatiga, crecimiento lento, problemas digestivos, sensibilidad a la luz, problemas epiteliales como grietas en las comisuras de los labios |
 | B3 niacina | Carne, pescado, aves, panes y cereales enriquecidos, maníes | 14-16 mg | Síntesis de NAD, función nerviosa, producción de colesterol | Piel agrietada y escamosa; demencia; diarrea; también conocida como pelagra |
