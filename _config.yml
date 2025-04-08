@@ -297,7 +297,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-  - _posts/2020-02-28-sample-mardown.md
+  - _posts/2020-02-28-sample-markdown.md
 
 plugins:
   - jekyll-paginate
