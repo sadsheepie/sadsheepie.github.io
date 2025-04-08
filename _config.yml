@@ -298,6 +298,7 @@ exclude:
   - screenshot.png
   - docs/
   - _posts/2020-02-28-sample-markdown.md
+  - _posts/2020-02-26-flake-it-till-you-make-it.md
 
 plugins:
   - jekyll-paginate
