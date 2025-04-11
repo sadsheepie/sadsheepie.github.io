@@ -21,6 +21,7 @@ author: Salvador Inga
 
 navbar-links:
   Acerca de mí: "aboutme"
+  Galería: "gallery"
   Recursos:
     - Anatomy and Physiology 2e.: "https://openstax.org/details/books/anatomy-and-physiology-2e"
     - DeepL: "https://www.deepl.com/es/translator"
